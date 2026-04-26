@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VplusLingoRU v0.1
+## Notes: |cFFFFD100by Wayborn|r|n|nThis addon adds some translation into Russian language.|n|nCurrently translated: emote text.|n|nCompatible with server update on 2025-12-23.
+## Author: Wayborn
+## Version: 0.1
+
+VplusLingoRU.lua
